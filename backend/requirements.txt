@@ -1,0 +1,9 @@
+fastapi==0.162.5
+sqlmodel==0.0.49
+uvicorn==0.54.0
+python-multipart
+pillow
+imagehash
+qrcode[pil]
+httpx
+pytest

@@ -1,0 +1,27 @@
+{
+  "stage": {
+    "Earthwork & subgrade": "मिट्टी कार्य व सबग्रेड", "Granular sub-base / WBM": "जीएसबी / डब्ल्यूबीएम", "Bituminous surface": "बिटुमिनस सतह",
+    "Side drains": "किनारे की नालियाँ", "Approach & road furniture": "पहुँच पथ व सड़क संकेतक", "Excavation": "खुदाई", "PCC bed": "पीसीसी बेड",
+    "Masonry / RCC walls": "चिनाई / आरसीसी दीवारें", "Cover slabs": "ढकने वाले स्लैब", "Outfall connection": "निकास से जोड़", "Foundation": "नींव",
+    "Superstructure": "ऊपरी ढाँचा", "Roofing": "छत", "Finishing": "फिनिशिंग", "Water, power & toilets": "पानी, बिजली व शौचालय",
+    "Barrel / slab": "बैरल / स्लैब", "Wing walls & approaches": "विंग दीवारें व पहुँच"
+  },
+  "check": {
+    "Carriageway complete end to end": "सड़क शुरू से अंत तक पूरी", "Side drains flowing, no ponding": "नालियाँ बह रही हैं, जलजमाव नहीं",
+    "Approach connections complete": "पहुँच मार्ग जुड़े हुए", "Signage and road furniture in place": "संकेतक व सड़क उपकरण लगे",
+    "Continuous gradient, no standing water": "लगातार ढलान, पानी नहीं रुकता", "Outfall connected and clear": "निकास जुड़ा और साफ",
+    "Covers in place at crossings": "क्रॉसिंग पर ढक्कन लगे", "Water supply working": "जलापूर्ति चालू", "Electricity connected": "बिजली कनेक्शन चालू",
+    "Toilets functional": "शौचालय उपयोग योग्य", "Accessible approach / ramp": "सुगम पहुँच / रैंप", "Approaches levelled": "पहुँच मार्ग समतल",
+    "Waterway clear": "जलमार्ग साफ"
+  },
+  "test": {
+    "Field density (compaction)": "फील्ड घनत्व (संघनन)", "Compacted layer thickness": "संघनित परत की मोटाई", "Aggregate impact value": "एग्रीगेट इम्पैक्ट वैल्यू",
+    "Bitumen content": "बिटुमेन की मात्रा", "Core thickness": "कोर की मोटाई", "Cube strength (M20, 28-day)": "क्यूब मजबूती (M20, 28 दिन)",
+    "Cube strength (M15, 28-day)": "क्यूब मजबूती (M15, 28 दिन)", "Cube strength (M25, 28-day)": "क्यूब मजबूती (M25, 28 दिन)",
+    "Mortar cube strength": "मसाला क्यूब मजबूती", "Brick compressive strength": "ईंट की संपीड़न मजबूती", "Water supply pressure test": "जलापूर्ति दबाव परीक्षण",
+    "Outfall level check": "निकास स्तर जाँच"
+  },
+  "unit": { "km": "किमी", "m": "मी", "nos": "नग", "item": "मद", "m³": "घन मी", "m²": "वर्ग मी", "%": "%" },
+  "role": { "JE": "कनीय अभियंता", "AE": "सहायक अभियंता", "EE": "कार्यपालक अभियंता", "CONTRACTOR": "संवेदक", "CO": "अंचल अधिकारी", "BDO": "प्रखंड विकास पदाधिकारी", "DM": "जिलाधिकारी", "DDC": "उप विकास आयुक्त" },
+  "reason": { "LAND": "भूमि / अतिक्रमण", "UTILITY": "यूटिलिटी शिफ्टिंग", "FUNDS": "राशि जारी होना बाकी", "CONTRACTOR": "संवेदक की क्षमता", "DESIGN_CHANGE": "डिज़ाइन बदलाव / संशोधित प्राक्कलन", "FLOOD_SEASON": "बाढ़ / मानसून", "MATERIAL": "सामग्री की कमी", "OTHER": "अन्य" }
+}
