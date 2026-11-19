@@ -1,0 +1,9 @@
+{
+  "name": "Kaarya Nigrani — Khagaria public works",
+  "short_name": "Kaarya Nigrani",
+  "start_url": "/public",
+  "display": "standalone",
+  "background_color": "#F4F6F8",
+  "theme_color": "#1D3F8F",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
